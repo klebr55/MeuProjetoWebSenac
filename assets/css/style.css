@@ -993,7 +993,9 @@ p {
 .single-work {
   position: relative; }
   .single-work .work-image img {
-    width: 100%; }
+    width: 350px;
+    height: 350px;
+    object-fit: contain; }
   .single-work .work-overlay {
     position: absolute;
     top: 0;
