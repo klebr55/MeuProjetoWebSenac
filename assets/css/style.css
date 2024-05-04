@@ -929,7 +929,8 @@ p {
   @media (max-width: 767px) {
     .call-to-action {
       padding-top: 70px;
-      padding-bottom: 80px; } }
+      padding-bottom: 80px;
+      width: 440px;} }
   .call-to-action::before {
     position: absolute;
     content: '';
