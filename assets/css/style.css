@@ -930,7 +930,7 @@ p {
     .call-to-action {
       padding-top: 70px;
       padding-bottom: 80px;
-      width: 440px;} }
+      width: 390px;} }
   .call-to-action::before {
     position: absolute;
     content: '';
